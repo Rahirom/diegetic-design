@@ -1,0 +1,44 @@
+﻿\listfiles
+\documentclass[a5paper]{jarticle}
+\usepackage{here}% \usepackage{float}
+\usepackage{graphicx}
+
+  \makeatletter
+    \renewcommand{\thefigure}{%
+    \thesection.\arabic{figure}}
+    \@addtoreset{figure}{section}
+  \makeatother
+
+\def\iroh{色は匂へど散りぬるを我が世誰ぞつねならむ
+有為の奥山今日越えて浅き夢見じ酔ひもせず}
+
+\begin{document}
+
+\section{TEST}
+
+【\verb|here.sty|あり】
+
+\iroh\iroh
+
+\begin{figure}[H]
+\caption{図}
+\centering\includegraphics[width=4cm]{tiger.eps}
+\end{figure}
+
+\iroh\iroh
+
+\begin{figure}[H]
+\caption{図}
+\centering\includegraphics[width=4cm]{golfer.eps}
+\end{figure}
+
+\iroh\iroh
+
+\begin{figure}[H]
+\caption{図}
+\centering\includegraphics[width=2cm]{tiger.eps}
+\end{figure}
+
+\iroh\iroh
+
+\end{document}
