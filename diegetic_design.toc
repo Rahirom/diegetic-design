@@ -5,66 +5,70 @@
 \contentsline {section}{\numberline {2}関連手法}{9}{section.2}
 \contentsline {subsection}{\numberline {2.1}関連するデザイン領域}{9}{subsection.2.1}
 \contentsline {subsubsection}{\numberline {2.1.1}Critical Design}{9}{subsubsection.2.1.1}
-\contentsline {section}{\numberline {3}問題叙述型デザインアプローチの提案}{10}{section.3}
-\contentsline {subsection}{\numberline {3.1}仮説}{10}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}問題叙述型デザインアプローチの概要}{11}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}適用対象となる問題}{11}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}デザインアプローチ}{12}{subsubsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.3}問題叙述の目的}{12}{subsubsection.3.2.3}
-\contentsline {subsubsection}{\numberline {3.2.4}}{12}{subsubsection.3.2.4}
-\contentsline {subsection}{\numberline {3.3}問題叙述型デザインアプローチの構成}{13}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1}基本構造}{13}{subsubsection.3.3.1}
-\contentsline {subsection}{\numberline {3.4}テーマ策定}{13}{subsection.3.4}
-\contentsline {subsubsection}{\numberline {3.4.1}扱う問題}{13}{subsubsection.3.4.1}
-\contentsline {subsection}{\numberline {3.5}問題の列挙}{14}{subsection.3.5}
-\contentsline {subsubsection}{\numberline {3.5.1}問題の列挙}{14}{subsubsection.3.5.1}
-\contentsline {subsection}{\numberline {3.6}問題のクラスタリング}{15}{subsection.3.6}
-\contentsline {subsubsection}{\numberline {3.6.1}問題の探索}{15}{subsubsection.3.6.1}
-\contentsline {subsubsection}{\numberline {3.6.2}検討要素}{15}{subsubsection.3.6.2}
-\contentsline {subsubsection}{\numberline {3.6.3}クラスタリング手法}{15}{subsubsection.3.6.3}
-\contentsline {subsubsection}{\numberline {3.6.4}クラスタの探索}{16}{subsubsection.3.6.4}
-\contentsline {subsection}{\numberline {3.7}物理的問題の解決}{17}{subsection.3.7}
-\contentsline {subsubsection}{\numberline {3.7.1}物理的問題}{17}{subsubsection.3.7.1}
-\contentsline {subsubsection}{\numberline {3.7.2}パラメトリックデザインの適用}{17}{subsubsection.3.7.2}
-\contentsline {subsection}{\numberline {3.8}解決不能な問題の解決}{18}{subsection.3.8}
-\contentsline {subsubsection}{\numberline {3.8.1}解決不能な問題}{18}{subsubsection.3.8.1}
-\contentsline {subsubsection}{\numberline {3.8.2}機能する虚構}{18}{subsubsection.3.8.2}
-\contentsline {subsection}{\numberline {3.9}展示}{20}{subsection.3.9}
-\contentsline {subsubsection}{\numberline {3.9.1}展示の必要性}{20}{subsubsection.3.9.1}
-\contentsline {section}{\numberline {4}左利きの問題への適用結果}{21}{section.4}
-\contentsline {subsection}{\numberline {4.1}テーマ設定}{21}{subsection.4.1}
-\contentsline {subsubsection}{\numberline {4.1.1}アイデンティティの問題}{21}{subsubsection.4.1.1}
-\contentsline {subsubsection}{\numberline {4.1.2}左利きの問題}{21}{subsubsection.4.1.2}
-\contentsline {subsection}{\numberline {4.2}問題の列挙}{22}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}問題のクラスタリング}{23}{subsection.4.3}
-\contentsline {subsubsection}{\numberline {4.3.1}要素決定}{23}{subsubsection.4.3.1}
-\contentsline {subsubsection}{\numberline {4.3.2}クラスタリング}{23}{subsubsection.4.3.2}
-\contentsline {subsubsection}{\numberline {4.3.3}クラスタの探索}{24}{subsubsection.4.3.3}
-\contentsline {subsection}{\numberline {4.4}物理的問題の解決}{26}{subsection.4.4}
-\contentsline {subsubsection}{\numberline {4.4.1}解決方法の推定}{26}{subsubsection.4.4.1}
-\contentsline {subsubsection}{\numberline {4.4.2}回転}{26}{subsubsection.4.4.2}
-\contentsline {paragraph}{要件定義}{26}{section*.13}
-\contentsline {paragraph}{パラメトリックデザイン}{26}{section*.14}
-\contentsline {subsubsection}{\numberline {4.4.3}反転}{28}{subsubsection.4.4.3}
-\contentsline {paragraph}{要件定義}{28}{section*.18}
-\contentsline {paragraph}{パラメトリックデザイン}{28}{section*.19}
-\contentsline {subsubsection}{\numberline {4.4.4}改造}{29}{subsubsection.4.4.4}
-\contentsline {paragraph}{要件定義}{29}{section*.22}
-\contentsline {paragraph}{改造}{30}{section*.23}
-\contentsline {subsubsection}{\numberline {4.4.5}中央化}{30}{subsubsection.4.4.5}
-\contentsline {subsection}{\numberline {4.5}解決不能な問題}{32}{subsection.4.5}
-\contentsline {subsubsection}{\numberline {4.5.1}文字の問題}{32}{subsubsection.4.5.1}
-\contentsline {subsubsection}{\numberline {4.5.2}左右共存文字}{32}{subsubsection.4.5.2}
-\contentsline {paragraph}{要件定義}{32}{section*.26}
-\contentsline {paragraph}{左右対称文字}{32}{section*.27}
-\contentsline {subsubsection}{\numberline {4.5.3}鏡文字エディタ}{33}{subsubsection.4.5.3}
-\contentsline {paragraph}{要件定義}{33}{section*.29}
-\contentsline {paragraph}{Reflection Edditer}{33}{section*.30}
-\contentsline {subsubsection}{\numberline {4.5.4}左右共存文字筆記ツール}{34}{subsubsection.4.5.4}
-\contentsline {paragraph}{要件定義}{34}{section*.32}
-\contentsline {paragraph}{An-reflectable Writer}{34}{section*.33}
-\contentsline {subsection}{\numberline {4.6}展示}{36}{subsection.4.6}
-\contentsline {subsubsection}{\numberline {4.6.1}展示計画}{36}{subsubsection.4.6.1}
-\contentsline {section}{\numberline {5}結論}{37}{section.5}
-\contentsline {subsection}{\numberline {5.1}考察}{37}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}今後の展望}{37}{subsection.5.2}
+\contentsline {subsection}{\numberline {2.2}過去の製作からの知見}{10}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}D.P.S.S.}{10}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}’25 convenience store(2017)}{11}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}LACHESIS SYSTEM}{11}{subsubsection.2.2.3}
+\contentsline {section}{\numberline {3}問題叙述型デザインアプローチの提案}{14}{section.3}
+\contentsline {subsection}{\numberline {3.1}仮説}{14}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}問題叙述型デザインアプローチの概要}{15}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}適用対象となる問題}{15}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}デザインアプローチ}{16}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}問題叙述の目的}{16}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}}{16}{subsubsection.3.2.4}
+\contentsline {subsection}{\numberline {3.3}問題叙述型デザインアプローチの構成}{17}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}基本構造}{17}{subsubsection.3.3.1}
+\contentsline {subsection}{\numberline {3.4}テーマ策定}{17}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}扱う問題}{17}{subsubsection.3.4.1}
+\contentsline {subsection}{\numberline {3.5}問題の列挙}{18}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}問題の列挙}{18}{subsubsection.3.5.1}
+\contentsline {subsection}{\numberline {3.6}問題のクラスタリング}{19}{subsection.3.6}
+\contentsline {subsubsection}{\numberline {3.6.1}問題の探索}{19}{subsubsection.3.6.1}
+\contentsline {subsubsection}{\numberline {3.6.2}検討要素}{19}{subsubsection.3.6.2}
+\contentsline {subsubsection}{\numberline {3.6.3}クラスタリング手法}{19}{subsubsection.3.6.3}
+\contentsline {subsubsection}{\numberline {3.6.4}クラスタの探索}{20}{subsubsection.3.6.4}
+\contentsline {subsection}{\numberline {3.7}物理的問題の解決}{21}{subsection.3.7}
+\contentsline {subsubsection}{\numberline {3.7.1}物理的問題}{21}{subsubsection.3.7.1}
+\contentsline {subsubsection}{\numberline {3.7.2}パラメトリックデザインの適用}{21}{subsubsection.3.7.2}
+\contentsline {subsection}{\numberline {3.8}解決不能な問題の解決}{22}{subsection.3.8}
+\contentsline {subsubsection}{\numberline {3.8.1}解決不能な問題}{22}{subsubsection.3.8.1}
+\contentsline {subsubsection}{\numberline {3.8.2}機能する虚構}{22}{subsubsection.3.8.2}
+\contentsline {subsection}{\numberline {3.9}展示}{24}{subsection.3.9}
+\contentsline {subsubsection}{\numberline {3.9.1}展示の必要性}{24}{subsubsection.3.9.1}
+\contentsline {section}{\numberline {4}左利きの問題への適用結果}{25}{section.4}
+\contentsline {subsection}{\numberline {4.1}テーマ設定}{25}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}アイデンティティの問題}{25}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}左利きの問題}{25}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}問題の列挙}{26}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}問題のクラスタリング}{27}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}要素決定}{27}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}クラスタリング}{27}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}クラスタの探索}{28}{subsubsection.4.3.3}
+\contentsline {subsection}{\numberline {4.4}物理的問題の解決}{30}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}解決方法の推定}{30}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.2}回転}{30}{subsubsection.4.4.2}
+\contentsline {paragraph}{要件定義}{30}{section*.13}
+\contentsline {paragraph}{パラメトリックデザイン}{30}{section*.14}
+\contentsline {subsubsection}{\numberline {4.4.3}反転}{32}{subsubsection.4.4.3}
+\contentsline {paragraph}{要件定義}{32}{section*.18}
+\contentsline {paragraph}{パラメトリックデザイン}{32}{section*.19}
+\contentsline {subsubsection}{\numberline {4.4.4}改造}{33}{subsubsection.4.4.4}
+\contentsline {paragraph}{要件定義}{33}{section*.22}
+\contentsline {paragraph}{改造}{34}{section*.23}
+\contentsline {subsubsection}{\numberline {4.4.5}中央化}{34}{subsubsection.4.4.5}
+\contentsline {subsection}{\numberline {4.5}解決不能な問題}{36}{subsection.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}文字の問題}{36}{subsubsection.4.5.1}
+\contentsline {subsubsection}{\numberline {4.5.2}左右共存文字}{36}{subsubsection.4.5.2}
+\contentsline {paragraph}{要件定義}{36}{section*.26}
+\contentsline {paragraph}{左右対称文字}{36}{section*.27}
+\contentsline {subsubsection}{\numberline {4.5.3}鏡文字エディタ}{37}{subsubsection.4.5.3}
+\contentsline {paragraph}{要件定義}{37}{section*.29}
+\contentsline {paragraph}{Reflection Edditer}{37}{section*.30}
+\contentsline {subsubsection}{\numberline {4.5.4}左右共存文字筆記ツール}{38}{subsubsection.4.5.4}
+\contentsline {paragraph}{要件定義}{38}{section*.32}
+\contentsline {paragraph}{An-reflectable Writer}{38}{section*.33}
+\contentsline {subsection}{\numberline {4.6}展示}{40}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}展示計画}{40}{subsubsection.4.6.1}
+\contentsline {section}{\numberline {5}結論}{41}{section.5}
+\contentsline {subsection}{\numberline {5.1}考察}{41}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}今後の展望}{41}{subsection.5.2}

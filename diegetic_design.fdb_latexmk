@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1545027093 "diegetic_design.dvi" "diegetic_design.pdf" "diegetic_design" 1545027113
-  "diegetic_design.dvi" 1545027093 104548 d3ca4dc6516c343d71a28dd44bc2604a "latex"
+["dvipdf"] 1545031621 "diegetic_design.dvi" "diegetic_design.pdf" "diegetic_design" 1545031641
+  "diegetic_design.dvi" 1545031621 123624 89ed568707d61db36459beef506b849e "latex"
   (generated)
   "diegetic_design.pdf"
-["latex"] 1545027088 "diegetic_design.tex" "diegetic_design.dvi" "diegetic_design" 1545027113
+["latex"] 1545031616 "diegetic_design.tex" "diegetic_design.dvi" "diegetic_design" 1545031641
   "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1519818042 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1519818042 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm" 1519818042 856 7404843a5f798859944d7973a47821d5 ""
@@ -55,10 +55,10 @@
   "c:/w32tex/share/texmf-dist/tex/platex/jsclasses/jslogo.sty" 1529750555 6061 1242b5308ecb0db77c71c1ff6c687ace ""
   "c:/w32tex/share/texmf-dist/web2c/eptex/platex.fmt" 1543900476 4479073 e52e9fdbb29b547ed3fea070fd865f83 ""
   "c:/w32tex/share/texmf-dist/web2c/texmf.cnf" 1532292638 33540 a47a3a0c25cccaf30f290690d2c74372 ""
-  "diegetic_design.aux" 1545027092 11514 5f7a6e5ed381a5cedc0f97ed06268800 ""
-  "diegetic_design.out" 1545027093 1740 d551d7a0f87758bdd51a1370f4d82aa1 ""
-  "diegetic_design.tex" 1545027085 55835 820611299533ed2b0afa8dd16b0970be ""
-  "diegetic_design.toc" 1545027093 5921 171e5cea009b5728cadbb57e936a30e9 ""
+  "diegetic_design.aux" 1545031620 11962 8f6261ce4b39d9c59e64c84185924f04 ""
+  "diegetic_design.out" 1545031620 1820 d680f24e80ce62f7cfda4a3f4e024aec ""
+  "diegetic_design.tex" 1545031615 68262 8fe819618a494faa4c5418a70c64c288 ""
+  "diegetic_design.toc" 1545031620 6297 88501e586a3cfdb914c5a7a2a0b43407 ""
   "here.sty" 1258855042 439 d908692e0f19922874ccfe2bf35addc7 ""
   "iamas.sty" 1524951834 797 482958f092b83fc33d4f6e2fa61271bb ""
   "images/AB.jpg" 1544331621 6467 3b8f55b1e38a6b25c8e6ae7a34dbcb58 ""
@@ -74,8 +74,8 @@
   "images/milling.jpg" 0 -1 0 ""
   "images/writer.png" 1544679832 46732 7f83235f2c33fb440f7a25982f9a7178 ""
   (generated)
+  "diegetic_design.dvi"
   "diegetic_design.log"
   "diegetic_design.toc"
-  "diegetic_design.dvi"
-  "diegetic_design.aux"
   "diegetic_design.out"
+  "diegetic_design.aux"
