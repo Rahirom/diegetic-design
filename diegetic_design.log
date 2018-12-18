@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.1-180901-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2018.12.4)  17 DEC 2018 16:26
+This is e-pTeX, Version 3.14159265-p3.8.1-180901-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2018.12.4)  18 DEC 2018 10:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -345,9 +345,9 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 
  [4] [5] [6] [7] [8]
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 149.
+(Font)              scaled to size 9.60999pt on input line 141.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 149.
+(Font)              scaled to size 9.60999pt on input line 141.
  [9]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -358,12 +358,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15] [16]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 294.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 316.
  (c:/w32tex/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 294.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 316.
  [17] [18]
 Underfull \vbox (badness 8019) has occurred while \output is active []
 
@@ -371,27 +371,27 @@ Underfull \vbox (badness 8019) has occurred while \output is active []
 File: ./images/AB.jpg Graphic file (type bmp)
 <./images/AB.jpg>
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 396.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 418.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 396.
+(Font)              scaled to size 9.60999pt on input line 418.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 396.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 418.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 396.
+(Font)              scaled to size 9.60999pt on input line 418.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22] [23] [24] [25]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 436.
+(Font)              <7> on input line 458.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 436.
+(Font)              <5> on input line 458.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 436.
+(Font)              scaled to size 6.72699pt on input line 458.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 436.
+(Font)              scaled to size 4.805pt on input line 458.
 
-Overfull \hbox (40.48016pt too wide) in paragraph at lines 436--465
+Overfull \hbox (40.48016pt too wide) in paragraph at lines 458--487
 [][][][] 
  []
 
@@ -399,14 +399,14 @@ Overfull \hbox (40.48016pt too wide) in paragraph at lines 436--465
 File: ./images/dendrogram.jpg Graphic file (type bmp)
 <./images/dendrogram.jpg>
 
-Overfull \hbox (85.35825pt too wide) in paragraph at lines 502--503
+Overfull \hbox (85.35825pt too wide) in paragraph at lines 524--525
  [][] 
  []
 
 File: ./images/dg2.jpg Graphic file (type bmp)
 <./images/dg2.jpg>
 
-Overfull \hbox (85.35825pt too wide) in paragraph at lines 514--515
+Overfull \hbox (85.35825pt too wide) in paragraph at lines 536--537
  [][] 
  []
 
@@ -439,16 +439,16 @@ Underfull \vbox (badness 1681) has occurred while \output is active []
 
  [33]
 
-LaTeX Warning: File `./images/milling.jpg' not found on input line 683.
+LaTeX Warning: File `./images/milling.jpg' not found on input line 705.
 
 
-./diegetic_design.tex:683: LaTeX Error: Cannot determine size of graphic in ./images/milling.xbb (no BoundingBox).
+./diegetic_design.tex:705: LaTeX Error: Cannot determine size of graphic in ./images/milling.xbb (no BoundingBox).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.683 ...phics[width = 14cm]{./images/milling.jpg}
+l.705 ...phics[width = 14cm]{./images/milling.jpg}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -476,22 +476,22 @@ File: ./images/writer.png Graphic file (type bmp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [38] [39] [40] [41]
-Underfull \hbox (badness 4205) in paragraph at lines 804--807
+Underfull \hbox (badness 4205) in paragraph at lines 855--858
 []\JY1/mc/m/n/12 『 渋谷区男女平等及び多様性を尊重する社会を推進する条例 』
  []
 
 
-Overfull \hbox (65.90892pt too wide) in paragraph at lines 804--807
+Overfull \hbox (65.90892pt too wide) in paragraph at lines 855--858
 \OT1/cmr/m/n/12 https://www.city.shibuya.tokyo.jp/assets/detail/files/kusei[]jorei[]jorei[]pdf[]danjo[]tayosei.pdf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 811--812
+Underfull \hbox (badness 10000) in paragraph at lines 862--863
 []\JY1/mc/m/n/12 神嶌敏弘\OT1/cmr/m/n/12 . \JY1/mc/m/n/12 『 クラスタリング \OT1/cmr/m/n/12 (\JY1/mc/m/n/12 クラスタ ー分析\OT1/cmr/m/n/12 )\JY1/mc/m/n/12 』
  []
 
-./diegetic_design.tex:820: Misplaced alignment tab character &.
-l.820   \bibitem{Hardyck}Hardyck, C., &
+./diegetic_design.tex:871: Misplaced alignment tab character &.
+l.871   \bibitem{Hardyck}Hardyck, C., &
                                         Petrinovich, L. F. (1977). "Left-han...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -501,19 +501,19 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 [42]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 829.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 880.
  [43]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 829.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 880.
  (./diegetic_design.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 829.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 829.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 880.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 880.
 Package rerunfilecheck Info: File `diegetic_design.out' has not changed.
-(rerunfilecheck)             Checksum: D680F24E80CE62F7CFDA4A3F4E024AEC;1820.
+(rerunfilecheck)             Checksum: 6D003D18F46CA4896CB7AEB3C84071CD;1897.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 829.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 880.
  ) 
 Here is how much of TeX's memory you used:
  6505 strings out of 493247
@@ -524,4 +524,4 @@ Here is how much of TeX's memory you used:
  934 hyphenation exceptions out of 8191
  36i,10n,39p,1533b,563s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on diegetic_design.dvi (43 pages, 123624 bytes).
+Output written on diegetic_design.dvi (43 pages, 130144 bytes).
