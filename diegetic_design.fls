@@ -116,14 +116,22 @@ OUTPUT diegetic_design.toc
 INPUT c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
 INPUT c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
-INPUT c:/w32tex/share/texmf-dist/tex/latex/base/omscmr.fd
-INPUT c:/w32tex/share/texmf-dist/tex/latex/base/omscmr.fd
 INPUT c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
+INPUT ./images/DRONE.jpg
+INPUT extractbb -B cropbox -O ./images/DRONE.jpg
+INPUT c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT ./images/25.png
+INPUT extractbb -B cropbox -O ./images/25.png
+INPUT ./images/rachesis.jpg
+INPUT extractbb -B cropbox -O ./images/rachesis.jpg
+INPUT c:/w32tex/share/texmf-dist/tex/latex/base/omscmr.fd
+INPUT c:/w32tex/share/texmf-dist/tex/latex/base/omscmr.fd
 INPUT ./images/AB.jpg
 INPUT extractbb -B cropbox -O ./images/AB.jpg
-INPUT c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
 INPUT c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
+INPUT ./images/2di.png
+INPUT extractbb -B cropbox -O ./images/2di.png
 INPUT ./images/dendrogram.jpg
 INPUT extractbb -B cropbox -O ./images/dendrogram.jpg
 INPUT ./images/dg2.jpg
